@@ -1,0 +1,5 @@
+rootProject.name = 'Pet shop tests'
+include 'clientGeneration'
+include 'petshopTests'
+
+
